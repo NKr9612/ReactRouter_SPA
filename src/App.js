@@ -19,12 +19,12 @@ class App extends Component {
            <Header />
          </header>
          <main>
-         <aside>
-           <Menu />
-         </aside>
-         <section>
-           <Pages />
-         </section>
+             <aside>
+                  <Menu />
+             </aside>
+             <section>
+                 <Pages />
+             </section>
          </main>
          <footer>
            <Footer />
