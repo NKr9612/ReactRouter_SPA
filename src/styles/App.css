@@ -39,3 +39,23 @@ footer {
   color: white;
   text-align: center;
 }
+
+#adminLogin label,
+#adminLogin input {
+  padding: 5px 10px;
+}
+
+#adminLogin button {
+  margin-top: 30px;
+  margin-left: 65%;
+}
+
+#errorMessage {
+  margin: 20px;
+}
+
+#oneProduct h3,
+#oneProduct a,
+#oneProduct div p {
+  margin: 20px;
+}
