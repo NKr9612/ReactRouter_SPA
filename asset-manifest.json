@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactRouter_SPA/static/css/main.10ae6699.chunk.css",
+    "main.js": "/ReactRouter_SPA/static/js/main.b8cde65e.chunk.js",
+    "main.js.map": "/ReactRouter_SPA/static/js/main.b8cde65e.chunk.js.map",
+    "runtime-main.js": "/ReactRouter_SPA/static/js/runtime-main.fc38cb83.js",
+    "runtime-main.js.map": "/ReactRouter_SPA/static/js/runtime-main.fc38cb83.js.map",
+    "static/js/2.39859185.chunk.js": "/ReactRouter_SPA/static/js/2.39859185.chunk.js",
+    "static/js/2.39859185.chunk.js.map": "/ReactRouter_SPA/static/js/2.39859185.chunk.js.map",
+    "static/js/3.4c75a01d.chunk.js": "/ReactRouter_SPA/static/js/3.4c75a01d.chunk.js",
+    "static/js/3.4c75a01d.chunk.js.map": "/ReactRouter_SPA/static/js/3.4c75a01d.chunk.js.map",
+    "index.html": "/ReactRouter_SPA/index.html",
+    "static/css/main.10ae6699.chunk.css.map": "/ReactRouter_SPA/static/css/main.10ae6699.chunk.css.map",
+    "static/js/2.39859185.chunk.js.LICENSE.txt": "/ReactRouter_SPA/static/js/2.39859185.chunk.js.LICENSE.txt",
+    "static/media/adminPanel.b7cd1ec1.jpg": "/ReactRouter_SPA/static/media/adminPanel.b7cd1ec1.jpg",
+    "static/media/contact.7c6e4d3c.jpg": "/ReactRouter_SPA/static/media/contact.7c6e4d3c.jpg",
+    "static/media/homePage.9f619db3.jpg": "/ReactRouter_SPA/static/media/homePage.9f619db3.jpg",
+    "static/media/products.0fbba0be.jpg": "/ReactRouter_SPA/static/media/products.0fbba0be.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc38cb83.js",
+    "static/js/2.39859185.chunk.js",
+    "static/css/main.10ae6699.chunk.css",
+    "static/js/main.b8cde65e.chunk.js"
+  ]
+}
